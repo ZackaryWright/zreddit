@@ -1,3 +1,3 @@
 # zreddit
 
-Fullstack Reddit-clone built in order to learn about Typescript anf GraphQL
+Fullstack Reddit-clone built in order to learn about Typescript and GraphQL
